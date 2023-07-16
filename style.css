@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper .tab{
+    color: #000000;
+    background-color: #8de88d;
+    padding: 15px;
+    border: none;
+    cursor: pointer;
+
+}
+
+.wrapper .active{
+    color: white;
+    background-color: green;
+
+
+}
+.tab_content{
+    margin-top: 15px;
+    background-color: green;
+    color: white;
+    padding: 15px;
+    display: inline-block;
+   max-width: 1200px;
+   min-width: 290px;
+}
